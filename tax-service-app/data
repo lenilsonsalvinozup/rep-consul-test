@@ -1,2 +1,3 @@
-fix.price=5
-taxrate=1
+fix:
+  price: 35
+taxrate: 11
